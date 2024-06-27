@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">062724_MURAL Demo v-4_AJ</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH/6EMihkRRtGS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH/5WUHlI13xK6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Short Answer</name>
+			<description lang="und">Short Answer</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH/5WUHlI13xK6/6l2hXeywS7n" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Short Answer</name>
+			<description lang="und">Short Answer</description>
+			<interactionType>fill-in</interactionType>
+		</activity>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH/5oLkborHXGY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Multiple Choice</name>
+			<description lang="und">Multiple Choice</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH/5oLkborHXGY/6qeZz7hcr5R" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Multiple Choice</name>
+			<description lang="und">Multiple Choice</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5e8YaQqjpcZ</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5e8YaQqjpcZ</id>
+					<description lang="und">Option 1</description>
+				</component>
+				<component>
+					<id>choice_6QyGMbpbNpr</id>
+					<description lang="und">Option 2</description>
+				</component>
+				<component>
+					<id>choice_5hWIPoXo3B5</id>
+					<description lang="und">Option 3</description>
+				</component>
+				<component>
+					<id>choice_6TcOcdgpRgL</id>
+					<description lang="und">Option 4</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH/5gn5lWkC3ur" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Multiple Choice</name>
+			<description lang="und">Multiple Choice</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH/5gn5lWkC3ur/6iHtWXReVs3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Multiple Choice</name>
+			<description lang="und">Multiple Choice</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5Y6eGsvjEEj</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5Y6eGsvjEEj</id>
+					<description lang="und">Option 1</description>
+				</component>
+				<component>
+					<id>choice_6B9pbzfZe8P</id>
+					<description lang="und">Option 2</description>
+				</component>
+				<component>
+					<id>choice_6Ugr9TOD01A</id>
+					<description lang="und">Option 3</description>
+				</component>
+				<component>
+					<id>choice_6D8OPMxTLVZ</id>
+					<description lang="und">Option 4</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH/6ATDAc7r0i9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Multiple Choice</name>
+			<description lang="und">Multiple Choice</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH/6ATDAc7r0i9/6nHLwVuGeCJ" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Multiple Choice</name>
+			<description lang="und">Multiple Choice</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6KafIqzxM2y</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6KafIqzxM2y</id>
+					<description lang="und">Option 1</description>
+				</component>
+				<component>
+					<id>choice_5qmLV0cUZk6</id>
+					<description lang="und">Option 2</description>
+				</component>
+				<component>
+					<id>choice_6N6pfXh8AKI</id>
+					<description lang="und">Option 3</description>
+				</component>
+				<component>
+					<id>choice_5ZY6skbqEIE</id>
+					<description lang="und">Option 4</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH/61eJ4gsjTre" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Multiple Choice</name>
+			<description lang="und">Multiple Choice</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH/61eJ4gsjTre/6GBGMa7iNK2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Multiple Choice</name>
+			<description lang="und">Multiple Choice</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_66UZsh0S3Zb</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_66UZsh0S3Zb</id>
+					<description lang="und">Option 1</description>
+				</component>
+				<component>
+					<id>choice_621vZaT5XOo</id>
+					<description lang="und">Option 2</description>
+				</component>
+				<component>
+					<id>choice_6NSlc0IbH1t</id>
+					<description lang="und">Option 3</description>
+				</component>
+				<component>
+					<id>choice_6efUqp3fe9E</id>
+					<description lang="und">Option 4</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH/6CzdWlDo99u" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Short Answer</name>
+			<description lang="und">Short Answer</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH/6CzdWlDo99u/5Uh94dZUPO2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Short Answer</name>
+			<description lang="und">Short Answer</description>
+			<interactionType>fill-in</interactionType>
+		</activity>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH/6qKIAUq82Qe" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Short Answer</name>
+			<description lang="und">Short Answer</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH/6qKIAUq82Qe/6FlXxEn1X7C" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Short Answer</name>
+			<description lang="und">Short Answer</description>
+			<interactionType>fill-in</interactionType>
+		</activity>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH/5qxRyrVffUx" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Short Answer</name>
+			<description lang="und">Short Answer</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5lIqw9BcwVH/5qxRyrVffUx/6RFn4gBaj63" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Short Answer</name>
+			<description lang="und">Short Answer</description>
+			<interactionType>fill-in</interactionType>
+		</activity>
+	</activities>
+</tincan>
